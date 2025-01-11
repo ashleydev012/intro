@@ -11,8 +11,6 @@
 - 💻 Used **Jira** and **stashblue** extensively.
 
 
-  ![](https://komarev.com/ghpvc/?username=RishikaGhosh)
- <a href="https://github.com/RishikaGhosh?tab=followers"><img src="https://img.shields.io/github/followers/RishikaGhosh?label=Followers&style=social" alt="GitHub Badge"></a>
  <h2> Tools and Technologies </h2>
  <h3>Datastructures and Algorithms</h3>
  
