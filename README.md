@@ -4,7 +4,6 @@
 - 🎓 I am a 4th year Computer Science Student 
 - 💖 I am proficient in **javascript**
 - 💻 I am proficient in **MEAN Stack** and **Python/ Flask**
-- 📈 I am an Technology Associate (SDE) [@MorganStanley](https://www.morganstanley.com/)
 - 📙 Proficient in DSA
 - 💻 I have worked on various front-end and back-end frameworks like **Angular**, **Spring Boot**, **MongoDB**.
 - 💻 Used CI/ CD tools like **Jenkins** extensively.
