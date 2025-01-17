@@ -8,7 +8,11 @@
 - 💻 Hands-on experience with front-end and back-end frameworks like **React**, **Spring Boot**, and **MongoDB**  
 - 🛠️ Extensive experience with CI/CD tools such as **Jenkins**  
 - 💻 Highly proficient in unit testing frameworks like **Karma**, **Jasmine**, **JUnit**, and **Mockito**  
-- 💼 Familiar with project management and version control tools like **Jira** and **Stashblue**  
+- 💼 Familiar with project management and version control tools like **Jira** and **Stashblue**
+
+  I am also a designer who is interested in VR/AR technology
+- Proficient in Solidworks and Blender
+- Please visit my works here
 
 
  <h2> Tools and Technologies </h2>
