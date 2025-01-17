@@ -1,14 +1,14 @@
-<h1 align="center">Hi<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! 
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! 
 <h2> I'm Ashley! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
-- 🎓 I am a 4th year Computer Science Student 
-- 💖 I am proficient in **javascript**
-- 💻 I am proficient in **MEAN Stack** and **Python/ Flask**
-- 📙 Proficient in DSA
-- 💻 I have worked on various front-end and back-end frameworks like **Angular**, **Spring Boot**, **MongoDB**.
-- 💻 Used CI/ CD tools like **Jenkins** extensively.
-- 💻 Extremely proficient in unit - testing frameworks like **Karma**, **Jasmine**, **JUnit**, and **Mockito**. 
-- 💻 Used **Jira** and **stashblue** extensively.
+🎓 I'm a Computer Science student  
+- 💖 Skilled in **Python/Flask**   
+- 💻 Experienced with **MEAN Stack** and **JavaScript**
+- 📙 Strong foundation in **Data Structures and Algorithms (DSA)**  
+- 💻 Hands-on experience with front-end and back-end frameworks like **React**, **Spring Boot**, and **MongoDB**  
+- 🛠️ Extensive experience with CI/CD tools such as **Jenkins**  
+- 💻 Highly proficient in unit testing frameworks like **Karma**, **Jasmine**, **JUnit**, and **Mockito**  
+- 💼 Familiar with project management and version control tools like **Jira** and **Stashblue**  
 
 
  <h2> Tools and Technologies </h2>
